@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of forumfortress/flarum.** Not for installation: use [Packagist](https://packagist.org/packages/forumfortress/flarum) or the [upstream repository](https://github.com/forum-fortress/flarum).
 
-**0** versions archived · Latest: [`v1.4.6`](https://github.com/flarchive/forum-fortress-flarum/tree/archive/v1.4.6) · License: `GPL-2.0-or-later` · Flarum: `^1.8 || ^2.0.0-rc.5`
+**8** versions archived · Latest: [`v1.4.6`](https://github.com/flarchive/forum-fortress-flarum/tree/archive/v1.4.6) · License: `GPL-2.0-or-later` · Flarum: `^1.8 || ^2.0.0-rc.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.3.7.2` | 2026-09-07 | `^1.8 || ^2.0.0-rc.5` | [Browse](https://github.com/flarchive/forum-fortress-flarum/tree/archive/v1.3.7.2) |
+| `v1.4.0` | 2026-09-11 | `^1.8 || ^2.0.0-rc.5` | [Browse](https://github.com/flarchive/forum-fortress-flarum/tree/archive/v1.4.0) |
+| `v1.4.1` | 2026-09-18 | `^1.8 || ^2.0.0-rc.5` | [Browse](https://github.com/flarchive/forum-fortress-flarum/tree/archive/v1.4.1) |
+| `v1.4.2` | 2026-09-28 | `^1.8 || ^2.0.0-rc.5` | [Browse](https://github.com/flarchive/forum-fortress-flarum/tree/archive/v1.4.2) |
+| `v1.4.3` | 2026-10-11 | `^1.8 || ^2.0.0-rc.5` | [Browse](https://github.com/flarchive/forum-fortress-flarum/tree/archive/v1.4.3) |
+| `v1.4.4` | 2026-10-11 | `^1.8 || ^2.0.0-rc.5` | [Browse](https://github.com/flarchive/forum-fortress-flarum/tree/archive/v1.4.4) |
+| `v1.4.5` | 2026-10-12 | `^1.8 || ^2.0.0-rc.5` | [Browse](https://github.com/flarchive/forum-fortress-flarum/tree/archive/v1.4.5) |
+| `v1.4.6` | 2026-10-23 | `^1.8 || ^2.0.0-rc.5` | [Browse](https://github.com/flarchive/forum-fortress-flarum/tree/archive/v1.4.6) |
 
 Catalog entry: [packages/forum-fortress-flarum.json](https://github.com/flarchive/archive-index/blob/main/packages/forum-fortress-flarum.json)
 
